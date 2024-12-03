@@ -51,6 +51,11 @@ title,link,site,date,age
 "Example Article",https://example.com/article,example.com,2024-03-01,2 months ago
 ```
 
+## For the Hacker News export in hn_favorites.py
+
+1. This is a simple copy paste of the table bodies on the [HN Favorites page](https://news.ycombinator.com/favorites)
+2. It's very clunky and meant to be one time instead of doing it correctly.
+3. Since the link works with a url parameter for the userID and a page parameter I could make it easier to work with but am happy for now.
 
 ## License
 
